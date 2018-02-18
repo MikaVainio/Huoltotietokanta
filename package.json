@@ -1,0 +1,27 @@
+{
+  "name": "huoltotietokanta",
+  "version": "1.0.0",
+  "description": "Web/REST-palvelin huoltotietojen hallintaan",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikaVainio/Huoltotietokanta.git"
+  },
+  "keywords": [
+    "Node.js",
+    "REST"
+  ],
+  "author": "Mika Vainio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikaVainio/Huoltotietokanta/issues"
+  },
+  "homepage": "https://github.com/MikaVainio/Huoltotietokanta#readme",
+  "devDependencies": {
+    "nodemon": "^1.15.0"
+  }
+}
