@@ -16,4 +16,4 @@ server.get('/About',(request, response) => {
 });
 
 // Luodaan kuuntelija ja tulostetaan sen tiedot konsoliin
-server.listen(4000, () => console.log('Palvelin kuuntelee porttia 4000'))
+server.listen(4000, () => console.log('Palvelin kuuntelee TCP-porttia 4000'))
