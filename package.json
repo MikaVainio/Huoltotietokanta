@@ -23,5 +23,8 @@
   "homepage": "https://github.com/MikaVainio/Huoltotietokanta#readme",
   "devDependencies": {
     "nodemon": "^1.15.0"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
   }
 }
