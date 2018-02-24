@@ -1,7 +1,10 @@
 # Huoltotietokanta
-Nodejs-sovellus huoltotietojen käsittelyyn
-Sovellus erilaisten huoltotietojen tallentamiseen älypuhelimen ja NFC-tunnisteiden avulla. Sovelluksena avulla voidaan lisäksi selata huolto-ohjeita ja piirustuksia.
+Repositoriossa on joukko Node.js kirjastoon perustuvia harjoitustiedostoja,
+joiden avulla harjoitellaan web- ja REST-sovellusten ohjelmointia.
 
-Perustuu Nodejs-moduleihin:
-* Express
-* Body-parser
+Harjoituksien avulla syvennytään web-perusteknologioiden opiskeluun ja niihin
+perustuvien palvelinsovellusten ohjelmointiin `javascript`-ohjelmointikielellä.
+
+Lopullisena tavoitteena on luoda web-sovellus, jonka avulla huoltohenkilöstö voi
+käyttää PostgreSQL-tietokantaa älypuhelimesta selaimen avulla tai käyttäen
+puhelimen NFC-sovelluksia.
