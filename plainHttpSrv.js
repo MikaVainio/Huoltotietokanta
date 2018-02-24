@@ -13,7 +13,7 @@ const server = http.createServer((request, response) => {
   response.end('Palvelin vastaa!\n'); // Päätetään yhteys lähettämällä tekstiä
 });
 
-// Luodaan kuuntelija
+// Luodaan kuuntelija, `-merkintä mahdollistaa /-merkin käyön merkkijonossa
 server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
+  console.log(`Palvelin käynnissä osoitteessa http://${hostname}:${port}/`);
 });
