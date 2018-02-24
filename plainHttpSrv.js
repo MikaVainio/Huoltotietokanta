@@ -1,4 +1,4 @@
-// Yksinkertainen perus HTTP-palvelin
+// Yksinkertainen perus-HTTP-palvelin
 
 // Ladataan HTTP-kirjasto
 const http = require('http');

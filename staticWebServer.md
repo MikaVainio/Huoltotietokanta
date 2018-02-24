@@ -1,7 +1,7 @@
 # Staattisen sivun lähettäminen
 
 Harjoituksessa Luodaan http-palvelin, joka vastaa selaimen HTTP request -pyyntöihin
-lähettämällä vastaukseksi tiedostoja omasta tiedostojärjelmästään
+lähettämällä vastaukseksi tiedostoja omasta tiedostojärjelmästään.
 
 Esimerkissä käytetään Node.js-kirjaston lisäksi `Express`-kirjastoa. Se on Asennettava
 ennen harjoitukseen sisältyvän koodin testaamista.
@@ -15,7 +15,7 @@ ennen harjoitukseen sisältyvän koodin testaamista.
 ## Valmiin koodin sisältämät toiminnot
 Uusina toimintoina tässä harjoituksessa:
 * Otetaan käyttöön tiedostojärjestelmän käyttämiseen tarvittava kirjasto `fs`
-* Otetaam käyttöön `Express`-kirjasto
+* Otetaan käyttöön `Express`-kirjasto
 * Luetaan latauspyynnön URL-osoite
 * Lähtetetään vastaukseksi tekstitiedosto, esim. README.md
 ## Muokkaa koodia

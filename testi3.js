@@ -11,5 +11,5 @@ var mainFunction = function(callback) {
   callback('Öljynsuodatin vaihdettu 12.12.2017');
 };
 
-//Annetaan varsinaisen funktion parametsiksi callback-funktio
+//Annetaan varsinaisen funktion parametriksi callback-funktio
 mainFunction(callbackFunction);
