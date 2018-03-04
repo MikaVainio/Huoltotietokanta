@@ -4,7 +4,8 @@
   "description": "Nodejs-sovellus huoltotietojen käsittelyyn\r Sovellus erilaisten huoltotietojen tallentamiseen älypuhelimen ja NFC-tunnisteiden avulla. Sovelluksena avulla voidaan lisäksi selata huolto-ohjeita ja piirustuksia.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "npm": "^5.7.1"
   },
   "devDependencies": {},
   "scripts": {
