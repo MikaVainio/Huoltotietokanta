@@ -28,3 +28,9 @@ Lisää koodiin muita URL-osoitteita ja tee niitä varten HTML-tiedostot. Expres
 muokata HTTP-otsakkeeseen tiedoston tyypin oikein (text/html). Tiedostojen polkujen
 on oltava oikein. Huomaa muuttuja `__dirname`. Testaa tekemiesi sivujen toiminta
 selaimella.
+
+## Tutki palvelimen lähtettämiä tiedostoja
+
+Tarkastele selaimen sovelluskehittäjän työkaluja käyttämällä sivujen sisältöä ja otsakkeita. Kokeile myös olemattoman sivun lataamista. 
+
+Kokeile analysointia myös Postman-sovelluksella.
