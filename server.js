@@ -11,7 +11,7 @@ const server = express();
 server.get('/',(request, response) => response.send('Hippopotamus'));
 // Määritellään About URL:n toiminnoksi tiedoston lähetys
 server.get('/About',(request, response) => {
-  response.sendFile(__dirname +'/README.md');
+  response.sendFile(__dirname + '/README.md');
 });
 
 // Luodaan kuuntelija ja tulostetaan sen tiedot konsoliin

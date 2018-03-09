@@ -1,5 +1,5 @@
 // Ludoaan javascipt-olio
-const jsObject = { id:12345, tech:'Jakke Jäynä' }; // huom. puolilainausmerkit
+const jsObject = { id: 12345, tech: 'Jakke Jäynä' }; // Huom. puolilainausmerkit
 // Luodaan javascipt-oliosta JSON-olio
 const asJson = JSON.stringify(jsObject);
 console.log('JSON näyttää tältä: ' + asJson); // JSON-käyttää lainausmerkkejä
