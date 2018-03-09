@@ -8,9 +8,9 @@ const fs = require('fs');
 const server = express();
 
 // Määritellään juuri URL:n toiminnoksi tekstin lähetys
-server.get('/',(request, response) => response.send('Hippopotamus'));
+server.get('/', (request, response) => response.send('Hippopotamus'));
 // Määritellään About URL:n toiminnoksi tiedoston lähetys
-server.get('/About',(request, response) => {
+server.get('/About', (request, response) => {
   response.sendFile(__dirname + '/README.md');
 });
 
