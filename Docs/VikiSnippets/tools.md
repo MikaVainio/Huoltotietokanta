@@ -25,3 +25,9 @@ Postman | API-kutsujen toiminnan testaus | https://www.getpostman.com/apps
 SQL PowerArchitect | Käsitemallien luonti  | http://software.sqlpower.ca/page/architect_download_os
 dBeaver | Tietokantojen hallinta | https://dbeaver.jkiss.org/download/
 OmniDB | PostgreSQL tietokantaeditori | https://www.omnidb.org/en/
+
+## Dokumentointi
+
+| Sovellus | Käyttötarkoitus | Latauslinkki |
+| --- | --- | --- |
+Draw.io | Kaavioiden piirtäminen | https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB
