@@ -2,6 +2,14 @@
 Seuraavia työkaluja voi käyttää harjoituksessa ja myös omissa projekteissa. Työkaluiksi on valittu avoimen lähdekoodin ohjelmistoja
 tai muita ilmaiseksi ladattavia sovelluksia.
 
+## Kehitysympäristö
+
+| Sovellus | Käyttötarkoitus | Latauslinkki |
+| --- | --- | --- |
+Github desktop | Versiohallinta | https://desktop.github.com/
+Atom | Koodieditori | https://atom.io/
+Visual Studio Code | Koodieditori | https://code.visualstudio.com/
+
 ## Web-suunnittelu ja testaus
 
 | Sovellus | Käyttötarkoitus | Latauslinkki |
