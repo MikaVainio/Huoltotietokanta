@@ -7,6 +7,7 @@ tai muita ilmaiseksi ladattavia sovelluksia.
 | Sovellus | Käyttötarkoitus | Latauslinkki |
 | --- | --- | --- |
 Github desktop | Versiohallinta | https://desktop.github.com/
+Sourcetree | Versiohallinan visualisointi | https://www.sourcetreeapp.com/
 Atom | Koodieditori | https://atom.io/
 Visual Studio Code | Koodieditori | https://code.visualstudio.com/
 
