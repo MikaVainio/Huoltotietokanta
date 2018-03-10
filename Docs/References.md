@@ -11,7 +11,7 @@ node-postgres | https://node-postgres.com/
 
 ## Web-kehitys
 
-| Ohjelmisto | Dokumentaatiolinkki |
+| Kieli tai protokolla | Dokumentaatiolinkki |
 | --- | --- |
 HTML | https://developer.mozilla.org/en-US/docs/Web/HTML/Reference
 Javascript | https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
