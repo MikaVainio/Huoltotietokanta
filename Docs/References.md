@@ -8,6 +8,7 @@ Express | https://expressjs.com/en/4x/api.html
 EJS | https://code.google.com/archive/p/embeddedjavascript/wikis
 pg-promise | https://vitaly-t.github.io/pg-promise/Database.html
 node-postgres | https://node-postgres.com/
+Passport | http://www.passportjs.org/docs/
 
 ## Web-kehitys
 
