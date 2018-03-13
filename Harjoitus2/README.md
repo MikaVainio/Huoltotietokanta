@@ -35,7 +35,7 @@ sopiva rakenne. Luo se ja muokkaa palvelinkoodia ja sivujen koodia vastaamaan
 uutta hakemistorakennetta.
 
 ### Ulkoiset tyylitiedostot
-Esimerkki HTML-tiedostoissa tyyliasetukset on kirjoitettu suoraan sivun omininaisuuksiin. Jos tyylejä muutetaan, muutokset on tehtävä kaikkiin HTML-dokumentteihin. Jos tyylit, määritellään erillisessä CSS-tiedostonssa, muutokset joudutaan tekemään vain kerran. Luo ulkoinen tyylitiedosto, joka määrittelee sivun taustavärin ja otsikkojen asetukset ja linkitä se HTML-tiedostoihin. Ulkoinen CSS-tiedosto merkitään HTML-dokumentin otsakkeeseen seuraavan esimerkin mukaisesti:
+Esimerkin HTML-tiedostoissa tyyliasetukset on kirjoitettu suoraan sivun omininaisuuksiin. Jos tyylejä muutetaan, muutokset on tehtävä kaikkiin sivuston HTML-dokumentteihin. Jos tyylit, määritellään erillisessä CSS-tiedostonssa, muutokset joudutaan tekemään vain kerran. Luo ulkoinen tyylitiedosto, joka määrittelee sivun taustavärin ja otsikkojen asetukset ja linkitä se HTML-tiedostoihin. Ulkoinen CSS-tiedosto merkitään HTML-dokumentin otsakkeeseen seuraavan esimerkin mukaisesti:
 
 ```html
 <head>
