@@ -12,7 +12,7 @@ omana projektinaan Nimellä Harjoitus2.
 6. Lisää edelliseen hakemistoon kuvia, joita käytät HTML-dokumentissasi
 
 ## Palvelimen ohjelmointi
-Luo palvelinkoodi siten, että seuraavat vaatimukset täyttyvät.
+Luo palvelinkoodi siten, että seuraavat vaatimukset täyttyvät:
 * Palvelin lähettää vakiotekstin juuriosoitteesta `/`.
 * Se lähettää tämän tiedoston `/About`-osoitteesta.
 * Se lähettää `info.html`-sivun osoitteesta `/Info`.
@@ -25,7 +25,20 @@ kokeile erilaisia sivukokoja ja laitteita.
 * Testaa liikenne myös Postman-ohjelmalla.
 
 ## Jatkokehitys
-Runsaasti staattisia sivuja sisältävä sivusto vaatii hakemostorakenteen, jossa
+Kun palvelimen perustoiminnot ovat kunnossa, ryhdytään luomaan suuremman
+sivuston vaatimia rakenteita.
+
+### Hakemistorakenne
+Runsaasti staattisia sivuja sisältävä sivusto vaatii hakemistorakenteen, jossa
 sivuilla, kuvilla ja esim. CSS-tiedostoilla on omat kansiosa. Mieti, mikä olisi
 sopiva rakenne. Luo se ja muokkaa palvelinkoodia ja sivujen koodia vastaamaan
 uutta hakemistorakennetta.
+
+### Ulkoiset tyylitiedostot
+Esimerkki HTML-tiedostoissa tyyliasetukset on kirjoitettu suoraan sivun omininaisuuksiin. Jos tyylejä muutetaan, muutokset on tehtävä kaikkiin HTML-dokumentteihin. Jos tyylit, määritellään erillisessä CSS-tiedostonssa, muutokset joudutaan tekemään vain kerran. Luo ulkoinen tyylitiedosto, joka määrittelee sivun taustavärin ja otsikkojen asetukset ja linkitä se HTML-tiedostoihin. Ulkoinen CSS-tiedosto merkitään HTML-dokumentin otsakkeeseen seuraavan esimerkin mukaisesti:
+
+```html
+<head>
+<link rel="stylesheet" type="text/css" href="hippostyle.css">
+</head>
+```
