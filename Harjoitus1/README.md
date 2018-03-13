@@ -31,6 +31,6 @@ selaimella.
 
 ## Tutki palvelimen lähtettämiä tiedostoja
 
-Tarkastele selaimen sovelluskehittäjän työkaluja käyttämällä sivujen sisältöä ja otsakkeita. Kokeile myös olemattoman sivun lataamista. 
+Tarkastele selaimen sovelluskehittäjän työkaluja käyttämällä sivujen sisältöä ja otsakkeita. Kokeile myös olemattoman sivun lataamista.
 
 Kokeile analysointia myös Postman-sovelluksella.
