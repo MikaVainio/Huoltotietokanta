@@ -49,5 +49,5 @@ voidaan käyttää ladattavia kirjasimia. Esim. Googlen fontteja voi käyttää
 sijoittamlla html-tiedoston otsakkeeseen `<head>` linkin kirjasintiedostoon:
 
 ```html
-<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Nanum Pen Script' rel='stylesheet'>
 ```
