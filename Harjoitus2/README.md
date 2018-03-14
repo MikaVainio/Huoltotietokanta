@@ -42,3 +42,12 @@ Esimerkin HTML-tiedostoissa tyyliasetukset on kirjoitettu suoraan sivun omininai
 <link rel="stylesheet" type="text/css" href="hippostyle.css">
 </head>
 ```
+Fontit saattavat olla myös ongelmallisia web-sovelluksissa. Palvelimen ja työaseman
+välillä ei siirretä fonttitiedostoja. Jos työasemassa ei ole oikeaa fonttia, se korvataan
+oletusfontilla. Kirjasintyyleille voidaan määritellä useita vaihtoehtoja tai
+voidaan käyttää ladattavia kirjasimia. Esim. Googlen fontteja voi käyttää
+sijoittamlla html-tiedoston otsakkeeseen `<head>` linkin kirjasintiedostoon:
+
+```html
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+```
