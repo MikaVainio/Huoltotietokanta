@@ -1,0 +1,19 @@
+{
+  "name": "harjoitus2",
+  "version": "1.0.0",
+  "description": "Staattinen Web-palvelin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Node.js",
+    "Express"
+  ],
+  "author": "MikaV",
+  "license": "ISC",
+  "dependencies": {
+    "Express": "^3.0.1"
+  }
+}
