@@ -6,6 +6,7 @@
 Node.js | https://nodejs.org/dist/latest-v8.x/docs/api/
 Express | https://expressjs.com/en/4x/api.html
 EJS | https://code.google.com/archive/p/embeddedjavascript/wikis
+Pug | https://pugjs.org/language/tags.html
 pg-promise | https://vitaly-t.github.io/pg-promise/Database.html
 node-postgres | https://node-postgres.com/
 Passport | http://www.passportjs.org/docs/
